@@ -1,4 +1,4 @@
-# k8spackages
+<h1> Single Node Cluster in Kubernetes</h1>
 ✅ To Make the server IP Static:
 <p># ifconfig 				-> to check your DHCP IP
 To check the config file under the directory location: 
